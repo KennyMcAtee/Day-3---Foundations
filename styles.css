@@ -1,0 +1,260 @@
+a {
+  font-size: 20px;
+  text-decoration: none;
+}
+
+body {
+  background: white;
+  margin: 20px 10px 20px 10px;
+}
+
+button {
+  display: inline-block;
+  height:50px;
+  width: 25%;
+}
+
+footer {
+  background-color:white;
+  display:flex;
+}
+
+.bottom_info {
+  display:inline-block;
+  color: blue;
+  font-size: 25px;
+  padding-top: 60px;
+  padding-right: 20px;
+}
+.bottom_menu {
+  display:inline-block;
+  font-size: 25px;
+   margin-left:10px;
+   margin-right:10px;
+   padding-top: 35px;
+   color:orange;
+}
+
+.copyright {
+  display:inline-block;
+  color: black;
+  font-size: 25px;
+  padding-left: 15px;
+  padding-top: 35px;
+  padding-right: 20px;
+}
+
+.dashedline {
+  border-bottom: 2px dashed #000000;
+  color:lightgrey;
+  width:100%;
+  margin-left: 5%;
+}
+
+.description {
+  font-size:25px;
+  margin-bottom:0px;
+}
+
+.detail_menu {
+   font-size: 30px;
+   display: inline-block;
+   margin-left:10px;
+   margin-right:10px;
+   margin-top: 30px;
+   color: #ff505f;
+}
+
+.fullpage {
+  background-color: white;
+}
+
+.img_logo {
+  display: inline-block;
+  width: 10%;
+}
+.menu1 {
+  width: 35%;
+}
+.header_section {
+  display:flex;
+}
+.menu_item {
+  font-size: 30px;
+   display: inline-block;
+   margin-left:10px;
+   margin-right:10px;
+   paddng-top: 20px;
+   color: #ff505f;
+}
+
+.prod_excite_1 {
+  font-size:35px;
+  color: black;
+}
+
+.prod_excite{
+  color: black;
+  font-size:30px;
+}
+
+.product_details {
+  background-color:white;
+  padding-top:20px;
+  display:flex;
+}
+
+.product_info  {
+  display: inline-block;
+  width:100%;
+}
+
+.promoted_cost {
+  display: inline-block;
+  font-size:30px;
+  color:white;
+  margin-bottom:10px;
+  padding-right:40px;"
+}
+.promoted_left {
+  height: 80%;
+  width: 80%;
+}
+
+.promoted_right {
+  height: 60%;
+  width: 90%;
+  margin-left: 10%;
+
+}
+
+.promoted_shoe {
+  display: block;
+  margin-top: 25%;
+  margin-bottom: 10%;
+  height: 100%;
+  width: 100%;
+}
+
+.promoted_season {
+  color:gray;
+  margin-top: 0px;
+  margin-left: 30px;
+  font-size: 25px;
+}
+
+.promoted_section {
+
+  background-color:tomato;
+  padding-top: 25px;
+  padding-left:10%;
+  padding-right:10%;
+  padding-bottom: 30px;
+
+}
+
+.returntoall {
+  color: white;
+  text-decoration:none;
+}
+.review_font {
+  margin-top: 30px;
+  font-size: 25px;
+  color: #ff505f;
+}
+
+.largest_font {
+  font-size: 50px;
+  color: white;
+  margin: 30px;
+  margin-bottom: 0px;
+}
+
+.recimage{
+  display: inline-block;
+  background-color: red;
+  padding-left:50px;
+  padding-right:50px;
+  height: 100%;
+  width: 40%;
+
+}
+
+.recitems {
+  background-color: white;
+}
+
+.rectitle {
+  color: grey;
+  width: 100%;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.rec_section {
+  display: flex;
+  background-color: red;
+  padding-top: 40px;
+  padding-left: 70px;
+  padding-right: 25px;
+  padding-bottom: 0px;
+  height: 400px;
+}
+
+.review {
+  color:white;
+  margin-left: 15px;
+  font-size: 35px;
+}
+
+.season {
+  color:gray;
+  margin-top: 0px;
+  margin-left: 15px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+
+.subject {
+  font-size: 30px;
+  color: grey;
+}
+
+.spacer {
+  display: inline-block;
+  width: 15%;
+}
+
+.spacer2 {
+  display: inline-block;
+  width: 60%;
+}
+
+.spacer3 {
+  display: inline-block;
+  width: 25%;
+}
+
+.stars {
+  margin-top: 10px;
+  padding-left: 20px;
+  height:10%;
+  width:10%;
+}
+
+.top_menu {
+  display: inline-block;
+}
+
+.topic {
+  font-size: 25px;
+  color: black;
+}
+
+.upperdesc {
+   padding-left:15px;
+   padding-right: 30px;
+}
